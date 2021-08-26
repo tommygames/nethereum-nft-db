@@ -3,17 +3,17 @@
         {
             "id": 0,
             "name": "Hat1",
-            "prefab": "hat_1_pre",
+            "prefab": "hat_1_pre"
         },
         {
             "id": 1,
             "name": "Hat2",
-            "prefab": "hat_2_pre",
+            "prefab": "hat_2_pre"
         },
         {
             "id": 2,
             "name": "Hat3",
-            "prefab": "hat_3_pre",
+            "prefab": "hat_3_pre"
         }
     ]
 }

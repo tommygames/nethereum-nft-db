@@ -2,27 +2,18 @@
     "tokens": [
         {
             "id": 0,
-            "description": "My NFT",
-            "external_url": "https://github.com/Nethereum/ERC721ContractLibrary.Template/",
-            "external_url_more_info": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://abs.twimg.com/emoji/v2/svg/1f389.svg",
-            "name": "My NFT 0"
+            "name": "Hat1",
+            "prefab": "hat_1_pre",
         },
         {
             "id": 1,
-            "description": "My NFT",
-            "external_url": "https://github.com/Nethereum/ERC721ContractLibrary.Template/",
-            "external_url_more_info": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://abs.twimg.com/emoji/v2/svg/1f389.svg",
-            "name": "My NFT 2"
+            "name": "Hat2",
+            "prefab": "hat_2_pre",
         },
         {
             "id": 2,
-            "description": "My NFT",
-            "external_url": "https://github.com/Nethereum/ERC721ContractLibrary.Template/",
-            "external_url_more_info": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://abs.twimg.com/emoji/v2/svg/1f389.svg",
-            "name": "My NFT 3"
+            "name": "Hat3",
+            "prefab": "hat_3_pre",
         }
     ]
 }

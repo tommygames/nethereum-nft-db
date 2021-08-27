@@ -2,18 +2,28 @@
     "tokens": [
         {
             "id": 0,
-            "name": "Hat1",
-            "prefab": "hat_1_pre"
+            "name": "Skin1",
+            "prefab": "skin_1"
         },
         {
             "id": 1,
-            "name": "Hat2",
-            "prefab": "hat_2_pre"
+            "name": "Skin2",
+            "prefab": "skin_2"
         },
         {
             "id": 2,
-            "name": "Hat3",
-            "prefab": "hat_3_pre"
+            "name": "Skin3",
+            "prefab": "skin_3"
+        },
+        {
+            "id": 3,
+            "name": "Skin4",
+            "prefab": "skin_4"
+        },
+        {
+            "id": 4,
+            "name": "Skin5",
+            "prefab": "skin_5"
         }
     ]
 }
